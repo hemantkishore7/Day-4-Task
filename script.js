@@ -25,6 +25,7 @@ request.onload = function () {
   }
 };
 
+//Compare to JSON
 let obj1 = { 
     name : "person1",
     age : 5
